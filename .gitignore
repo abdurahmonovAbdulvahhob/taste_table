@@ -41,6 +41,11 @@ lerna-debug.log*
 .env.test.local
 .env.production.local
 .env.local
+Dockerfile
+docker-compose.yml
+/pgdata
+.gitignore
+
 
 # temp directory
 .temp
